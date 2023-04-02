@@ -1,3 +1,4 @@
 = PasswordGenerator
-== Quick note
+
+== Quick note :
 This has been made just to remember the basics of C# in the perspective of a job interview. It wasn't made for performance, clean code and stuff
